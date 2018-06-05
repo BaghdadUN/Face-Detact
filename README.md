@@ -1,0 +1,2 @@
+# Face-Detact
+اعثر على الوجوه بستخدام اي من الكامرات التي ترغبها  Find your face using any camera you want  Blog : https://baghdad-un.blogspot.com/ Twitter : https://twitter.com/BaghdadUn Tumblr : https://www.tumblr.com/blog/baghdadun google : https://plus.google.com/100049443847633116895 Facebook : https://www.facebook.com/port.lenovo.94  TAGS : Baghdad UN,Baghdad,Face,Detact,Face Detact,vb,vb.net,فجول بيسك,العثور على الوجه,الوجه,الوجوه,العثور,Baghdad UN Face Detact
